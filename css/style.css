@@ -1,0 +1,33 @@
+  body{
+    background-image:url('../img/bg.jpg');
+  }
+li{
+  padding:5px;
+}
+
+
+ #button{
+	 position: absolute;
+	 right:40px;
+	  width:35px;
+	  color: #FF0000;
+	  border:0;
+	  background-color: #f2f3f4;
+	  
+	 
+  }
+  span{
+    
+ display: inline-block;
+ font-family:Luminari, fantasy;
+ font-size: 14pt;
+    width:10;
+    height: 66px;
+    margin: 4px;
+    background-color: #f2f3f4;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5)
+  }
+
+    a{color:white;text-decoration: none;}
+    a:hover{color:red;text-decoration: none;}
+  
